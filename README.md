@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JJTV
 - 👀 I’m interested in Programming Python, Javascript and C#
 - 🌱 I’m currently learning various Frameworks for Javascript and Python
-- 💞️ I’m looking to collaborate on a large Project like a ChatApp
+- 💞️ I’m looking to collaborate on a large Project like a Blockchain etc.
 - 📫 You can reach me via Discord JJTV#4359
 
 <!---

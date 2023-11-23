@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on a large Project like a Blockchain etc.
 - 📫 You can reach me via Discord JJTV#4359
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnGrubba)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnGrubba)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=JohnGrubba))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGrubba&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGrubba&layout=donut-vertical)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnGrubba&layout=donut-vertical))
 
 <!---
 JohnGrubba/JohnGrubba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

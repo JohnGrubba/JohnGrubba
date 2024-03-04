@@ -5,6 +5,7 @@
 - 📫 You can reach me via Discord JJTV#4359
 
 ![Anurag's GitHub stats](https://githubreadmestats-drab.vercel.app/api?username=JohnGrubba&show_icons=true&theme=radical)
+![Top Langs](https://githubreadmestats-drab.vercel.app/api/top-langs/?username=JohnGrubba)
 
 <!---
 JohnGrubba/JohnGrubba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,14 @@
+{
+    "name": "Doge Rocket",
+    "symbol": "DOGER",
+    "description": "Dogecoin is flying to the moon in a rocket",
+    "image": "https://raw.githubusercontent.com/JohnGrubba/JohnGrubba/main/DogeRocket.png",
+    "extensions": {
+        "telegram": "https://t.me/+F3tARcVhu9U3NjA8"
+    },
+    "tags": [
+        "doge",
+        "rocket",
+        "moon"
+    ]
+}

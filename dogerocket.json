@@ -4,7 +4,8 @@
     "description": "Dogecoin is flying to the moon in a rocket",
     "image": "https://raw.githubusercontent.com/JohnGrubba/JohnGrubba/main/DogeRocket.png",
     "extensions": {
-        "telegram": "https://t.me/+F3tARcVhu9U3NjA8"
+        "telegram": "https://t.me/dogerocket_coin",
+        "website": "https://dogerocketcoin.com/"
     },
     "tags": [
         "doge",
